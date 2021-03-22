@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = axel.ridray@sfr.fr
-	name = ridrayaxel
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = Axel Ridray
